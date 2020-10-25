@@ -41,6 +41,17 @@ The queries in [sql_epilogue.sql](https://github.com/vivisantosa/Unit-09-SQL-cha
   <tbody>
     <tr>
       <th>3</th>
+      <td>decision tree</td>
+      <td>model_dt3</td>  
+      <td>4</td>     
+      <td>0.8243707093821511</td>
+      <td>{'C': 5, 'gamma': 0.0001}}</td>
+      <td>0.7547176882381621</td>
+    </tr>
+  </tbody> 
+  <tbody>
+    <tr>
+      <th>4</th>
       <td>random forrest</td>
       <td>model_rf1</td>  
       <td>40</td>     
@@ -51,7 +62,7 @@ The queries in [sql_epilogue.sql](https://github.com/vivisantosa/Unit-09-SQL-cha
   </tbody>
   <tbody>
     <tr>
-      <th>4</th>
+      <th>5</th>
       <td>random forrest</td>
       <td>model_rf2</td>  
       <td>10</td>     
@@ -62,7 +73,7 @@ The queries in [sql_epilogue.sql](https://github.com/vivisantosa/Unit-09-SQL-cha
   </tbody>
   <tbody>
     <tr>
-      <th>5</th>
+      <th>6</th>
       <td>logistic regression</td>
       <td>model_lr1</td>  
       <td>40</td>     
@@ -73,7 +84,7 @@ The queries in [sql_epilogue.sql](https://github.com/vivisantosa/Unit-09-SQL-cha
   </tbody>  
   <tbody>
     <tr>
-      <th>6</th>
+      <th>7</th>
       <td>logistic regression</td>
       <td>model_lr2</td>  
       <td>10</td>     
