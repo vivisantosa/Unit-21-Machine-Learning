@@ -10,7 +10,7 @@ The queries in [sql_epilogue.sql](https://github.com/vivisantosa/Unit-09-SQL-cha
       <th>test</th>
       <th>model type</th>
       <th>file name</th>
-      <th>f</th>
+      <th>features</th>
       <th>testing data score</th>
       <th>grid best params</th>
       <th>grid best score</th>
