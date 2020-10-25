@@ -1,8 +1,17 @@
 # Unit-21-Machine-Learning
-Creating classification models of Exoplanets
+<img src="/images/exoplanets.jpg" width="1080"><br>
+
+Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
+To clasify this data, we create machine learning models to classify candidate exoplanets from the raw dataset.<br><br>
 
 
-The queries in [sql_epilogue.sql](https://github.com/vivisantosa/Unit-09-SQL-challenge/blob/master/sql_epilogue.sql) produce this result
+<img align="right" src="/images/sample1.png" width="40%"> <img align="right" src="/images/df2.png" width="40%">
+The modeling process began with the cleaning and selecting the raw data.<br>
+
+We started with "Decision Tree Model", which we tuned it with less features. We then we add "Random Forrest Model" and "Logistic Regression Model". 
+After that we compare the models.<br>
+
+The exploration of the models produce the results below
 
 <table border="1" class="dataframe">
   <thead>
