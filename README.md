@@ -18,8 +18,9 @@ The queries in [sql_epilogue.sql](https://github.com/vivisantosa/Unit-09-SQL-cha
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <th>1</th>
       <td>decision tree</td>
+      <td>model_dt2</td>  
       <td>40</td>
       <td>0.8466819221967964</td>
       <td>{'C': 10, 'gamma': 0.0001}</td>
@@ -27,4 +28,53 @@ The queries in [sql_epilogue.sql](https://github.com/vivisantosa/Unit-09-SQL-cha
       <td>-</td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <th>2</th>
+      <td>decision tree</td>
+      <td>model_dt2</td>  
+      <td>10</td>     
+      <td>0.852974828375286</td>
+      <td>{'C': 10, 'gamma': 0.0001}</td>
+      <td>0.8319639205641142</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>3</th>
+      <td>random forrest</td>
+      <td>model_rf1</td>  
+      <td>40</td>     
+      <td>0.8981693363844394</td>
+      <td>{'C': 10, 'gamma': 0.0001}</td>
+      <td>0.8714435412861394</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>4</th>
+      <td>random forrest</td>
+      <td>model_rf2</td>  
+      <td>10</td>     
+      <td>0.8895881006864989</td>
+      <td>{'C': 10, 'gamma': 0.0001}</td>
+      <td>0.8466485711582823</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>5</th>
+      <td>random forrest</td>
+      <td>model_rf1</td>  
+      <td>40</td>     
+      <td>0.8981693363844394</td>
+      <td>{'C': 10, 'gamma': 0.0001}</td>
+      <td>0.8714435412861394</td>
+      <td>-</td>
+    </tr>
+  </tbody>  
 </table>
+
