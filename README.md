@@ -8,7 +8,7 @@ To clasify this data, we create machine learning models to classify candidate ex
 
 The modeling process began with the cleaning and selecting the raw data.<br>
 
-<img align="right" src="/images/sample1.png" width="420"> <img align="right" src="/images/df2.png" width="300">  
+<img align="right" src="/images/sample1.png" width="420"> <img align="right" src="/images/df2.png" width="300">  <br>
 We started with "Decision Tree Model", with all the features. we plotted the tree as seen below, After which we tuned it with less features (the best 10 and 4 features). 
 
 We then we add "Random Forrest Model" and "Logistic Regression Model". After that we compare the models.<br>
